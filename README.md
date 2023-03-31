@@ -65,3 +65,34 @@ The printf alx project comprises of the following *two* mandatory task and *four
 * o
 * x
 * X
+
+### Task 4: write a function that Use a local buffer of 1024 chars in order to call write as little as possible.
+
+### Task 5: write a function handle the following custom conversion specifier:
+
+* S : prints the string.
+* Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)
+
+### Task 6: write a function that handle the following conversion specifier: *p*.
+
+we dont need to:
+* handle the flag characters
+* handle field width
+* handle precision
+* handle the length modifiers
+
+### Task 7: write a printf function that handles the following charater:
+
+* +
+* space
+* *#*
+
+### Task 8: printf function that handle the following length modifiers for non-custom conversion specifiers:
+
+* l
+* h
+Conversion specifiers to handle: *d, i, u, o, x, X*
+
+## Task 9: printf function that handle the field width for non-custom conversion specifiers.
+
+## Task 10: write a printf function 
