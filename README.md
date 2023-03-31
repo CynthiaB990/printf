@@ -144,3 +144,7 @@ Example:
 * R: prints the rot13'ed string
 
 ## Task 15: making sure all the above function work well
+
+### Authors
+* **CYTHIA BARASA** - [cynthiabarasa312@gmail.com](https://github.com/CynthiaB990)
+* **MOSES IFEANYI** - [mosesifeanyi19@gmail.com](https://github.com/Moses-ifeanyi)
