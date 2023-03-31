@@ -95,4 +95,52 @@ Conversion specifiers to handle: *d, i, u, o, x, X*
 
 ## Task 9: printf function that handle the field width for non-custom conversion specifiers.
 
-## Task 10: write a printf function 
+Examples:
+* %d: This specifier is used to print or scan integers in decimal (base 10) format. It can be used for both signed and unsigned integers.
+
+* %u: This specifier is used to print or scan unsigned integers in decimal format.
+
+* %f: This specifier is used to print or scan floating-point numbers in decimal notation. It can be used for both float and double types.
+
+* %c: This specifier is used to print or scan a single character.
+
+* %s: This specifier is used to print or scan a null-terminated string of characters.
+
+
+## Task 10: write a printf function that handle the precision for non-custom conversion specifiers.
+
+Examples: 
+
+* %d: This specifier is used to print or scan integers in decimal (base 10) format. It can be used for both signed and unsigned integers.
+
+* %u: This specifier is used to print or scan unsigned integers in decimal format.
+
+* %f: This specifier is used to print or scan floating-point numbers in decimal notation. It can be used for both float and double types.
+
+* %c: This specifier is used to print or scan a single character.
+
+* %s: This specifier is used to print or scan a null-terminated string of characters.
+
+## Task 11: printf funtion that handle the 0 flag character for non-custom conversion specifiers.
+
+Example:
+
+* %s: The 0 flag character is ignored for this specifier.
+
+%p: The 0 flag character has no effect on this specifier.
+
+* %x, %X, and %o: The 0 flag character specifies that the output should be padded with leading zeros to reach the specified field width. For example, %04x will print the hexadecimal number with at least 4 digits, padded with leading zeros if necessary. Note that the 0 flag character is only effective when the field width is also specified, using the asterisk (*) or a positive integer.
+
+## Task 12: write a function that handle the minus flag character for non-custom conversion specifiers.
+
+* -
+
+## Task 13: write a function handle the following custom conversion specifier:
+
+* r : prints the reversed string
+
+## Task 14: write a printf function that handle the following custom conversion specifier:
+
+* R: prints the rot13'ed string
+
+## Task 15: making sure all the above function work well
