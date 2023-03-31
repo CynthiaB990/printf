@@ -32,8 +32,3 @@ The following are some of the key takeaways from this project that you should le
 * If successful, the function returns the number of characters in the output string; otherwise, it returns -1.
 
 * To use this function, call it with the following syntax: _printf("format string", arguments...). The format string argument may contain conversion specifiers, flags, and regular characters.
-
-
-
-
-Regenerate response
